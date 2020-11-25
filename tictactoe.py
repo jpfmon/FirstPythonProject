@@ -144,7 +144,7 @@ def tablero(*args):
             ce[index] = item
             index += 1
     fill_strings(ce)
-    print(s_1)
+    print(s_1) 
     print(s_2)
     print(s_3)
 
